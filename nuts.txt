@@ -1,0 +1,32 @@
+This file will name the features of the script and my personal rating.
+
+5 = Amazing
+4 = Really Good
+3 = Decent
+2 = Okay
+1 = Terrible, doesn't work/patched
+? = Not sure
+
+arcadeempire.lua = 1, doesn't work
+arson.lua = 5, used for trolling 9 year olds in Arsenal. Works really well. (Kill All, Inf Ammo, Aimbot, Fly, Noclip, so on.)
+bss.lua = 4, not reccomended to use in public servers due to suspicous movement. Works really well. (Autodig, autofield, etc.)
+dex.lua = 4, Very nice, would reccomend SynapseX dex instead if you have synapse. (FREE DEX: view scripts, view parts, etc.)
+fly.lua = 1, No use since IY exists. (obviously it grants you fly)
+funky.lua = 4, Doesn't work in private servers. (autohit arrows)
+gci.lua, gci2.lua, and gcistatmodder.lua = 2, Works, but when you rejoin, your practically banned from the game forever on that account. (Platinum chance, spawn speed, auto collect, mod stats.)
+harked_v2.lua = 2, Only works in games with backdoors. Only content creators creating exploit specific videos are granted with ones that don't require backdoors/segways. No, you cant get it by scouring on the browser for 30 minutes. (Kill, fly, kick, btools, naked :skull:)
+hospital_tycoon.lua = 4, is not patched. Not the most game-changing script, but still overpowered. (Auto buy, auto rebirth, auto dropper, auto crates, destroy annoyances)
+iy.lua = 5, all-time favorite script. So much features, too much features to list. There's even plugins. So, i'll list 10. (Fly, swim in air, tween to position, walkspeed, waypoint, noclip, freeze (CLIENT), loopbring (CLIENT), loopgoto, goto)
+mm2.lua = 5, not patched, and works really well. (Kill all, shoot murderer, coin autofarm, XP farm, troll XP farm, etc.)
+msinx.lua = 5, works really well, not patched, and extremely game changing. (auto money, auto bag, auto rank, auto tier, fly, noclip, and more.)
+Nekoscript.lua = its gay dont use it (rating: 1)
+Obby_Destroyer.lua = 4, patched in only a small amount of obbies. for the not patched games, works well (abuse stage system/checkpoint system)
+pls_donate_script.lua = 2, only client-sided meaning only you can see the donation. Useful for trolling ig. (Fake donations)
+PROXIMA_HUB.lua = 5, works really well. Tons of games that work on it. Games: Tapping Legends X, Specter 2 [LOBBY] / [IN GAME], Break In [LOBBY] / [IN GAME], Rebirth Champions X, Anime Journey, Ninja Legends, Gun Simulator, Legends Of Speed, Destruction Simulator, Saber Simulator, Tower Of Hell, Lucky Block, Horrific Housing, Anime Sword Simulator, Kick Off, Givenchy Beauty House, Tommy Play, Gucci Town, Broken Bones Simulator, Samsung Superstar Galaxy, Spotify Island, Clicker Madness, Beatland.)  
+volatile_hub.lua = ?, not sure which games it works in. Still works in (some)games though.
+reach.lua = 4, works really well. If SF games are smart enough to add an anti-cheat, dont risk running reach on those games. (reach, obviously)
+rt2_instacook.lua = 4, works extremely well but theres just 1 feature. (insta-cook, obviously)
+rt2.lua = 4, works extremely well but there aren't too much features. (Fast service, fast chef XP)
+speedyss.lua = 1, No use since IY exists. (obviously it sets your speed)
+sword_sim.lua = ?, don't know if it's patched or not. (Mob autofarm, walkspeed setter, more.)
+WORDBOMBHUB.lua = 2, Only useful if you can type fast. You can't paste words anymore. It still works. If you got no words avalible, then uhhh your dead (gives you a word when you input letters)
